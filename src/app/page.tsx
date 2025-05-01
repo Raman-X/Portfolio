@@ -140,7 +140,7 @@ export default function Page() {
                 Get in Touch
               </h2>
               <p className="mx-auto max-w-[600px] text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                If you'd like to get in touch, you'll find the contact links in the navbar below{" "}
+                If you&apos;d like to get in touch, you&apos;ll find the contact links in the navbar below{" "}
                 <Link
                   href={DATA.contact.social.LinkedIn.url}
                   className="text-blue-500 hover:underline"
